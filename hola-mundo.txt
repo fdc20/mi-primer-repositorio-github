@@ -1,1 +1,3 @@
 !Hola mundo¡
+para clonar repositorios con git nos colocamos dentro de una carpeta en terminal
+git clone https://github.com/fdc20/mi-primer-repositorio-github.git
